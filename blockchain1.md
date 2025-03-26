@@ -1,4 +1,4 @@
-#Baby-1
+## Baby-1
 The challenge is written in anchor and it is straight forward,though quality challenge,we spent decent time and alot of failed exploits as well :p
 
 ## Goal
@@ -126,3 +126,4 @@ pub struct Withdraw1000<'info> {
     pub chall: Program<'info, chall::Chall>,
 }
 ```
+after setting up our exploit with remote js client we get the flag `idek{b391dba7-4766-4191-9117-55a1202c86d8}`
